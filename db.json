@@ -1,0 +1,58 @@
+{
+“elemento” 
+  :[
+{
+    "id": 1,
+    "nome": "Hidrogênio",
+    },
+  {
+    "id": 2,
+    "nome": "Lítio",
+      },
+{
+  
+    "id": 3,
+    "nome": "Sódio",
+      },
+{
+  
+    "id": 4,
+    "nome": "Potássio",
+      },
+{
+    
+    "id": 5,
+    "nome": "Rubídio",
+      },
+{
+   
+    "id": 6,
+    "nome": "Césio",
+      },
+{
+  
+    "id": 7,
+    "nome": "Frâncio",
+      }
+],
+{
+"Simbolos": [
+{ "id":1, "nome":"H" },
+{ "id":2, "nome":"Li" },
+{ "id":3, "nome":"K" },
+{ "id":4, "nome":"Rb" },
+{ "id":5, "nome":"Cs" },
+{ "id":6, "nome":"Fr" }
+],
+{
+"atomicos":[
+
+{ "id":1, "numero":"1" },
+{ "id":1, "numero":"3" },
+{ "id":1, "numero":"11" },
+{ "id":1, "numero":"19" },
+{ "id":1, "numero":"37" },
+{ "id":1, "numero":"55" },
+{ "id":1, "numero":"87" }
+]
+}
